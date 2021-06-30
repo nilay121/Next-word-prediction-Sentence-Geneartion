@@ -5,4 +5,5 @@ I have used various text processing with concept of word embedding.<br>
 
 Dataset link :- https://www.kaggle.com/therohk/million-headlines?select=abcnews-date-text.csv
 
+<img src='https://github.com/nilay121/Next-word-predictor-model/blob/main/pred..png' height=400 width=700>
 
