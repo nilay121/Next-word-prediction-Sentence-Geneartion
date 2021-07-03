@@ -1,4 +1,4 @@
-# Next-word-predictor-model
+# Next-word-prediction-Sentence-Generation
 A Bidirectional LSTM based language processing model that predicts the next word based on the previous words.<br>
 The model is also capable of generating a sentence of arbitrary length based on given words.<br>
 I have used news headlines dataset to train the model.<br>
