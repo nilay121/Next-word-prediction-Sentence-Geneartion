@@ -1,5 +1,5 @@
 # Next-word-predictor-model
-An LSTM based language processing model that predicts the next word based on the previous words.<br>
+A Bidirectional LSTM based language processing model that predicts the next word based on the previous words.<br>
 I have used news headlines dataset to train the model.<br>
 I have used various text processing with concept of word embedding.<br>
 
